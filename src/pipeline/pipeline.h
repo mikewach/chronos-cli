@@ -27,7 +27,7 @@
 
 #define SCREENCAP_PATH      "/tmp/cam-screencap.jpg"
 
-#define LIVE_MAX_FRAMERATE  60
+#define LIVE_MAX_FRAMERATE  30
 #define SAVE_MAX_FRAMERATE  230
 
 #define LIVEREC_MAX_BITRATE  6000000
